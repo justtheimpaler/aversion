@@ -41,8 +41,8 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:ssh://git.code.sf.net/p/tartarus/dbm</developerConnection>
-    <url>https://sourceforge.net/p/tartarus/dbm/ci/master/tree/</url>
+    <developerConnection>scm:git@github.com:justtheimpaler/aversion.git</developerConnection>
+    <url>https://github.com/justtheimpaler/aversion</url>
     <tag>1.0.0</tag>
   </scm>
     
