@@ -6,9 +6,13 @@
   <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
+  <name>Aversion</name>
+
   <description>
     Aversion compares and sorts version strings.
   </description>
+
+  <url>https://github.com</url>
 
   <licenses>
     <license>
