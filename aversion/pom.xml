@@ -3,7 +3,7 @@
 
   <groupId>org.nocrala.tools.aversion</groupId>
   <artifactId>aversion</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
 
   <name>Aversion</name>
@@ -47,7 +47,7 @@
   <scm>
     <developerConnection>scm:git:git@github.com:justtheimpaler/aversion.git</developerConnection>
     <url>https://github.com/justtheimpaler/aversion</url>
-    <tag>1.0.0</tag>
+    <tag>1.0.1</tag>
   </scm>
  
   <distributionManagement>
