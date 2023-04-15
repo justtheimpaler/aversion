@@ -28,7 +28,7 @@ jobs:
         distribution: 'corretto'
         cache: maven
     - name: Build with Maven
-      run: pwd && ls -alF ./aversion && mvn -B package --file /home/runner/work/aversion/aversion/aversion/pom.xml
+      run: cd aversion && mvn -B package --file ./pom.xml
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     - name: Update dependency graph
